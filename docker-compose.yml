@@ -8,3 +8,7 @@ chrome1:
     links:
       - hub
 
+firefox1:
+    image: selenium/node-firefox
+    links:
+      - hub
